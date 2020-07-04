@@ -1,0 +1,20 @@
+[project]
+name = "rivetcalc-replit"
+version = "0.1.0"
+description = "rivetcalc toml file for repl.it"
+authors = [
+    "Rod Holland <rholland@structurelabs.com>"
+]
+license = "MIT"
+readme = "README.md"
+python = "^3.7"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+numpy = "^1.18"
+sympy =  "^1.5"
+pandas = "1.0"
+matplotlib = "^3.2.0"
+tabulate = "0.8"
+docutils = "0.16"
+rivet = { git = "https://github.com/rivetcalc/rivetcalc-code" }
