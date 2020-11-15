@@ -21,6 +21,7 @@ python = "^3.8"
 sympy = "^1.5"
 tabulate = "0.8"
 antlr4-python3-runtime = "^4.7"
+IPython = "^7.11"
 
 [tool.poetry.dependencies.rivtcalc]
 git = "https://github.com/rivtcalc/rivtcalc-terminal"
