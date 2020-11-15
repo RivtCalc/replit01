@@ -1,7 +1,7 @@
 [project]
 name = "rivetcalc-replit"
 version = "0.1.0"
-description = "rivetcalc toml file for repl.it"
+description = "rivtcalc toml file for repl.it"
 authors = [
     "Rod Holland <rholland@structurelabs.com>"
 ]
