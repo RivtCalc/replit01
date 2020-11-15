@@ -1,4 +1,8 @@
 [project]
+description = "toml file for repl.it"
+license = "MIT"
+name = "rivtcalc-replit"
+readme = "README.md"
 
 [tool]
 [tool.poetry]
@@ -10,4 +14,3 @@ version = "0.1.0"
 authors = ["rholland <rholland@structurelabs.com>"]
 [tool.poetry.dependencies.rivtcalc]
 git = "https://github.com/rivtcalc/rivtcalc-terminal"
-
