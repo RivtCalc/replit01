@@ -1,13 +1,4 @@
 [project]
-name = "rivetcalc-replit"
-version = "0.1.0"
-description = "rivtcalc toml file for repl.it"
-authors = [
-    "Rod Holland <rholland@structurelabs.com>"
-]
-license = "MIT"
-readme = "README.md"
-python = "^3.7"
 
 [tool]
 [tool.poetry]
