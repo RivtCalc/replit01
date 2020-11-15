@@ -9,12 +9,14 @@ license = "MIT"
 readme = "README.md"
 python = "^3.7"
 
-[tool.poetry.dependencies]
-python = "^3.7"
-numpy = "^1.18"
-sympy =  "^1.5"
-pandas = "1.0"
-matplotlib = "^3.2.0"
-tabulate = "0.8"
-docutils = "0.16"
-rivet = { git = "https://github.com/rivetcalc/rivetcalc-code" }
+[tool]
+[tool.poetry]
+description = "rivtcalc toml file for repl.it"
+license = "MIT"
+name = "rivtcalc-replit"
+readme = "README.md"
+version = "0.1.0"
+authors = ["rholland <rholland@structurelabs.com>"]
+[tool.poetry.dependencies.rivtcalc]
+git = "https://github.com/rivtcalc/rivtcalc-terminal"
+
