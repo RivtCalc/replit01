@@ -24,4 +24,4 @@ antlr4-python3-runtime = "^4.7"
 IPython = "^7.11"
 
 [tool.poetry.dependencies.rivtcalc]
-git = "https://github.com/rivtcalc/rivtcalc-terminal"
+git = "https://github.com/rivtcalc/rivtcalc-code"
