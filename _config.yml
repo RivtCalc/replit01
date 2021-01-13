@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: repl.it example
+logo: images/enso9c.jpg
+description: RivtCalc examples in repl.it
+show_downloads: false
